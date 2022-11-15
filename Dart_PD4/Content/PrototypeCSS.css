@@ -1,0 +1,250 @@
+﻿/*font*/
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); 
+body {
+    font-family: 'Lato', sans-serif;
+}
+/*navbar css*/
+.navbar{
+    padding-right: 0em;
+    padding-left: 0em;
+    width:100%
+}
+
+.logo{
+ height:3em;
+ width:8em;
+
+
+}
+.navbar {
+    background-color: #FF8C00;
+}
+.navbar:hover{
+    color:black
+}
+.navbar li a {
+    color:black; 
+}
+.btnalign{
+    vertical-align:top;
+}
+.home{
+    padding-right:14em;
+}
+.aboutus{
+    padding-right:14em
+}
+.faq{
+    padding-right:14em;
+}
+.forms{
+
+    padding-right:14em;
+}
+.card{
+    width: 18rem;
+    border:solid;
+  
+}
+.card{
+    padding-top:;
+    margin-top:7em;
+    width:18rem;
+    
+  }
+.btn {
+    color:black;
+
+    background-color:orange
+}
+.btn:hover{
+    color:black;
+}
+.card-img-top {
+    width: 17.7em;
+    height: 15.509375em;
+    border-color: #FF8C00;
+}
+hr{
+   margin-top:8em;
+   padding-bottom:3em;
+}
+.staff {
+    width: 15em;
+    height: 15em;
+    margin-bottom: 10em;
+    border-radius: 50%;
+    border: solid;
+    border-color: #FF8C00
+}
+.nav{
+ margin: 0;
+    padding: 0;
+}
+.col-sm-12 {
+   
+}
+.staffs {
+    width: 15em;
+    height: 15em;
+    margin-bottom: 10em;
+    border-radius: 50%;
+    border: solid;
+    border-color: #FF8C00
+}
+.alex{
+    padding-left: 19em;
+  padding-bottom: 2em;
+  margin-top: -8em
+}
+.chad{
+    padding-left:;
+    margin-top:-8em
+}
+#row1 {
+   
+    background-color: white;
+    /*border-style:dotted;*/
+    margin-top:2em;
+    margin-bottom: 2em;
+}
+
+#row2 {
+    background-image: url('../images/lots of checks.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+#row3 {
+    background-color: #FF8C00;
+ 
+    
+}
+/*parallax*/
+
+#row4 {
+    background-image: url('../images/guy w pizza.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#row5 {
+    background-color: #FF8C00;
+
+}
+/*parallax*/
+#row6 {
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url('../images/competition group pt3.jpg');
+}
+.carouselimages {
+    width: 100%;
+    background-size: cover;
+
+}
+#row7 {
+    background-color: #FF8C00;
+}
+#row8 {
+   
+}
+
+/*parallax*/
+#row9 {
+    background-image: url('../images/riata logo new.png');
+    height: 40vh;
+    background-position: center;
+    background-size: cover;
+    border: solid;
+}
+.btnLogin {
+    background-color: #FF8C00;
+
+}
+
+#row11{
+   
+    
+    
+}
+
+#row12 {
+    background-color: #FF8C00;
+    margin-top: 2em;
+    height: 25vh;
+}
+#row13{
+    margin-top:3em;
+}
+#tboxFAQ{
+    margin-left:30em;
+}
+
+#row14{
+   margin-top:2em;
+   padding-left: 
+}
+#formscard{
+    margin-top: -7em;
+    width:30rem;
+    border:solid;
+
+}
+#row15{
+   
+}
+#btnSubmit {
+    margin-top: 2em;
+}
+#row16 {
+  
+}
+#cardcolumn{
+    margin-top:7em;
+    
+}
+#logincard {
+    width: 30rem;
+   
+}
+#btnLogin {
+    margin-top: 2em;
+    background-color: #FF8C00;
+    margin-bottom: 1em;
+    
+}
+#loginrow {
+  
+}
+#row40{
+    padding-left: 16.35em;
+}
+#row270{
+    padding-left:14em;
+}
+#row800{
+    padding-left:16.35em;
+}
+#row1000{
+    padding-left:13.75em;
+}
+.paula{
+    margin-top: -9em;
+}
+#btnSave {
+    background-color: #FF8C00
+}
+
+#prompt {
+    margin-top: 5em;
+}
+#btnSend {
+    background-color: #FF8C00
+}
