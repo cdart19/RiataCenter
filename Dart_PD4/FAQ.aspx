@@ -27,9 +27,7 @@
                 <li class="nav-item faq">
                     <a href="FAQ.aspx" class="nav-link">FAQ</a>
                 </li>
-                <li class="nav-item forms">
-                    <a href="Forms.aspx" class="nav-link">Forms</a>
-                </li>
+               
             </ul>
             <div>
                 <asp:TextBox ID="tboxSearch" runat="server" class="form-control d-inline-block w-auto" placeholder="Search"></asp:TextBox>
@@ -47,7 +45,7 @@
             <%-- questions and answers  --%>
             <div class="row mx-auto text-center" id="row14">
                 <div class="col-sm-12 mx-auto">
-                    <h4>Q: Where is the Riata Center Located? </h4>
+                    <h4>Q: Where is the Riata Center Located? hello</h4>
                     <h4>A: The Riata Center is Located on the First Floor of the Spears Business Building</h4>
                     <h4>Q: How Can I Contact? </h4>
                     <h4>A:  You can email: Riata@okstate.edu or call or 405-744-7552</h4>

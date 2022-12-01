@@ -27,9 +27,7 @@
                 <li class="nav-item faq">
                     <a href="FAQ.aspx" class="nav-link">FAQ</a>
                 </li>
-                <li class="nav-item forms">
-                    <a href="Forms.aspx" class="nav-link">Forms</a>
-                </li>
+                
             </ul>
             <div>
                 <asp:TextBox ID="tboxSearch" runat="server" class="form-control d-inline-block w-auto" placeholder="Search"></asp:TextBox>
